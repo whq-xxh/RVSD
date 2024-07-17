@@ -1,4 +1,4 @@
 # RVSD
-From Language to Shadows: A Novel Referring Video Shadow Detection
+Language-Driven Interactive Shadow Detection
 
-Coming soon !!!
+Code and dataset are being organized and will come soon !!!
